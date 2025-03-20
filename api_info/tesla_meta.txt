@@ -1,0 +1,117 @@
+[헤더]
+요청 URL:
+https://api.stock.naver.com/chart/foreign/item/TSLA.O/day?startDateTime=202309230000&endDateTime=202503201141
+요청 메서드:
+GET
+상태 코드:
+200 OK
+원격 주소:
+210.89.168.36:443
+리퍼러 정책:
+unsafe-url
+access-control-allow-credentials:
+true
+access-control-allow-origin:
+https://m.stock.naver.com
+cache-control:
+no-cache, no-store, max-age=0, must-revalidate
+content-encoding:
+gzip
+content-type:
+application/json;charset=UTF-8
+date:
+Thu, 20 Mar 2025 02:41:10 GMT
+expires:
+0
+pragma:
+no-cache
+referrer-policy:
+unsafe-url
+server:
+nfront
+vary:
+Origin
+vary:
+Access-Control-Request-Method
+vary:
+Access-Control-Request-Headers
+x-content-type-options:
+nosniff
+x-frame-options:
+DENY
+x-xss-protection:
+1; mode=block
+:authority:
+api.stock.naver.com
+:method:
+GET
+:path:
+/chart/foreign/item/TSLA.O/day?startDateTime=202309230000&endDateTime=202503201141
+:scheme:
+https
+accept:
+*/*
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+ko,en-US;q=0.9,en;q=0.8
+origin:
+https://m.stock.naver.com
+priority:
+u=1, i
+referer:
+https://m.stock.naver.com/fchart/foreign/stock/TSLA.O
+sec-ch-ua:
+"Chromium";v="134", "Not:A-Brand";v="24", "Google Chrome";v="134"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+
+[페이로드]
+startDateTime: 202309230000
+endDateTime: 202503201141
+
+[미리보기]
+[
+  {
+    "localDate": "20230925",
+    "closePrice": 246.99,
+    "openPrice": 243.38,
+    "highPrice": 247.1,
+    "lowPrice": 238.31,
+    "accumulatedTradingVolume": 104636557
+  },
+  {
+    "localDate": "20230926",
+    "closePrice": 244.12,
+    "openPrice": 242.98,
+    "highPrice": 249.55,
+    "lowPrice": 241.6601,
+    "accumulatedTradingVolume": 101993631
+  },
+  {
+    "localDate": "20230927",
+    "closePrice": 240.5,
+    "openPrice": 244.262,
+    "highPrice": 245.33,
+    "lowPrice": 234.58,
+    "accumulatedTradingVolume": 136597184
+  },
+  {
+    "localDate": "20230928",
+    "closePrice": 246.38,
+    "openPrice": 240.02,
+    "highPrice": 247.55,
+    "lowPrice": 238.65,
+    "accumulatedTradingVolume": 117058870
+  },
+  {
+    "localDate": "20230929",
+    "closePrice": 250.22,
+    "openPrice": 250,
+    "highPrice": 254.77,
+    "lowPrice": 246.35,
+    "accumulatedTradingVolume": 128522729
+  },
+]

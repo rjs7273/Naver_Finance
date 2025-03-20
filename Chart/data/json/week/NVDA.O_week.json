@@ -1,0 +1,634 @@
+[
+    {
+        "localDate": "20230917",
+        "closePrice": 41.61,
+        "openPrice": 42.748,
+        "highPrice": 44.242,
+        "lowPrice": 40.98,
+        "accumulatedTradingVolume": 2170414990
+    },
+    {
+        "localDate": "20230924",
+        "closePrice": 43.499,
+        "openPrice": 41.591,
+        "highPrice": 44.144,
+        "lowPrice": 41.177,
+        "accumulatedTradingVolume": 2088800970
+    },
+    {
+        "localDate": "20231001",
+        "closePrice": 45.762,
+        "openPrice": 44.03,
+        "highPrice": 45.789,
+        "lowPrice": 43.246,
+        "accumulatedTradingVolume": 2093887720
+    },
+    {
+        "localDate": "20231008",
+        "closePrice": 45.461,
+        "openPrice": 44.842,
+        "highPrice": 47.609,
+        "lowPrice": 44.368,
+        "accumulatedTradingVolume": 2113144680
+    },
+    {
+        "localDate": "20231015",
+        "closePrice": 41.387,
+        "openPrice": 45.063,
+        "highPrice": 46.225,
+        "lowPrice": 41.078,
+        "accumulatedTradingVolume": 2793225380
+    },
+    {
+        "localDate": "20231022",
+        "closePrice": 40.5,
+        "openPrice": 41.229,
+        "highPrice": 43.697,
+        "lowPrice": 39.8802,
+        "accumulatedTradingVolume": 2236158810
+    },
+    {
+        "localDate": "20231029",
+        "closePrice": 45.005,
+        "openPrice": 41.087,
+        "highPrice": 45.309,
+        "lowPrice": 39.23,
+        "accumulatedTradingVolume": 2177371200
+    },
+    {
+        "localDate": "20231105",
+        "closePrice": 48.335,
+        "openPrice": 45.2845,
+        "highPrice": 48.472,
+        "lowPrice": 44.899,
+        "accumulatedTradingVolume": 2053555290
+    },
+    {
+        "localDate": "20231112",
+        "closePrice": 49.298,
+        "openPrice": 48.32,
+        "highPrice": 49.96,
+        "lowPrice": 48.099,
+        "accumulatedTradingVolume": 1942240070
+    },
+    {
+        "localDate": "20231119",
+        "closePrice": 47.776,
+        "openPrice": 49.312,
+        "highPrice": 50.548,
+        "lowPrice": 47.69,
+        "accumulatedTradingVolume": 2177176440
+    },
+    {
+        "localDate": "20231126",
+        "closePrice": 46.765,
+        "openPrice": 47.8,
+        "highPrice": 48.762,
+        "lowPrice": 46.187,
+        "accumulatedTradingVolume": 2074721040
+    },
+    {
+        "localDate": "20231203",
+        "closePrice": 47.506,
+        "openPrice": 46.077,
+        "highPrice": 47.7409,
+        "lowPrice": 45.01,
+        "accumulatedTradingVolume": 1899896860
+    },
+    {
+        "localDate": "20231210",
+        "closePrice": 48.89,
+        "openPrice": 47.491,
+        "highPrice": 49.404,
+        "lowPrice": 45.83,
+        "accumulatedTradingVolume": 2201086130
+    },
+    {
+        "localDate": "20231217",
+        "closePrice": 48.83,
+        "openPrice": 49.4,
+        "highPrice": 50.433,
+        "lowPrice": 48.098,
+        "accumulatedTradingVolume": 1827858130
+    },
+    {
+        "localDate": "20231224",
+        "closePrice": 49.522,
+        "openPrice": 48.968,
+        "highPrice": 49.997,
+        "lowPrice": 48.751,
+        "accumulatedTradingVolume": 1113728280
+    },
+    {
+        "localDate": "20231231",
+        "closePrice": 49.097,
+        "openPrice": 49.244,
+        "highPrice": 49.547,
+        "lowPrice": 47.32,
+        "accumulatedTradingVolume": 1453724550
+    },
+    {
+        "localDate": "20240107",
+        "closePrice": 54.71,
+        "openPrice": 49.512,
+        "highPrice": 55.346,
+        "lowPrice": 49.479,
+        "accumulatedTradingVolume": 2899158090
+    },
+    {
+        "localDate": "20240114",
+        "closePrice": 59.491,
+        "openPrice": 55.018,
+        "highPrice": 59.5,
+        "lowPrice": 54.74,
+        "accumulatedTradingVolume": 1959126010
+    },
+    {
+        "localDate": "20240121",
+        "closePrice": 61.031,
+        "openPrice": 60.049,
+        "highPrice": 62.849,
+        "lowPrice": 58.585,
+        "accumulatedTradingVolume": 2180965270
+    },
+    {
+        "localDate": "20240128",
+        "closePrice": 66.16,
+        "openPrice": 61.232,
+        "highPrice": 66.6,
+        "lowPrice": 60.7,
+        "accumulatedTradingVolume": 2058986590
+    },
+    {
+        "localDate": "20240204",
+        "closePrice": 72.133,
+        "openPrice": 68.225,
+        "highPrice": 72.185,
+        "lowPrice": 66.3,
+        "accumulatedTradingVolume": 2709822920
+    },
+    {
+        "localDate": "20240211",
+        "closePrice": 72.613,
+        "openPrice": 72.6,
+        "highPrice": 74.611,
+        "lowPrice": 69.62,
+        "accumulatedTradingVolume": 2636656180
+    },
+    {
+        "localDate": "20240218",
+        "closePrice": 78.817,
+        "openPrice": 71.947,
+        "highPrice": 82.394,
+        "lowPrice": 66.248,
+        "accumulatedTradingVolume": 3089619340
+    },
+    {
+        "localDate": "20240225",
+        "closePrice": 82.279,
+        "openPrice": 79.7,
+        "highPrice": 82.3,
+        "lowPrice": 77.125,
+        "accumulatedTradingVolume": 2275212450
+    },
+    {
+        "localDate": "20240303",
+        "closePrice": 87.528,
+        "openPrice": 84.13,
+        "highPrice": 97.4,
+        "lowPrice": 83.417,
+        "accumulatedTradingVolume": 3469164270
+    },
+    {
+        "localDate": "20240310",
+        "closePrice": 87.8365,
+        "openPrice": 86.429,
+        "highPrice": 91.96,
+        "lowPrice": 84.166,
+        "accumulatedTradingVolume": 3226556480
+    },
+    {
+        "localDate": "20240317",
+        "closePrice": 94.289,
+        "openPrice": 90.388,
+        "highPrice": 94.778,
+        "lowPrice": 85.01,
+        "accumulatedTradingVolume": 2887301660
+    },
+    {
+        "localDate": "20240324",
+        "closePrice": 90.356,
+        "openPrice": 93.941,
+        "highPrice": 96.766,
+        "lowPrice": 89.123,
+        "accumulatedTradingVolume": 2087063160
+    },
+    {
+        "localDate": "20240331",
+        "closePrice": 88.008,
+        "openPrice": 90.299,
+        "highPrice": 92.225,
+        "lowPrice": 85.88,
+        "accumulatedTradingVolume": 2090214970
+    },
+    {
+        "localDate": "20240407",
+        "closePrice": 88.186,
+        "openPrice": 88.7,
+        "highPrice": 90.739,
+        "lowPrice": 83.022,
+        "accumulatedTradingVolume": 2077137940
+    },
+    {
+        "localDate": "20240414",
+        "closePrice": 76.2,
+        "openPrice": 89.098,
+        "highPrice": 90.613,
+        "lowPrice": 75.606,
+        "accumulatedTradingVolume": 2631387820
+    },
+    {
+        "localDate": "20240421",
+        "closePrice": 87.735,
+        "openPrice": 78.104,
+        "highPrice": 88.3309,
+        "lowPrice": 76.4,
+        "accumulatedTradingVolume": 2522758920
+    },
+    {
+        "localDate": "20240428",
+        "closePrice": 88.789,
+        "openPrice": 87.595,
+        "highPrice": 89.281,
+        "lowPrice": 81.2546,
+        "accumulatedTradingVolume": 2088780890
+    },
+    {
+        "localDate": "20240505",
+        "closePrice": 89.878,
+        "openPrice": 89.39,
+        "highPrice": 92.22,
+        "lowPrice": 88.231,
+        "accumulatedTradingVolume": 1852603270
+    },
+    {
+        "localDate": "20240512",
+        "closePrice": 92.479,
+        "openPrice": 90.478,
+        "highPrice": 95.819,
+        "lowPrice": 88.529,
+        "accumulatedTradingVolume": 1687565550
+    },
+    {
+        "localDate": "20240519",
+        "closePrice": 106.469,
+        "openPrice": 93.75,
+        "highPrice": 106.475,
+        "lowPrice": 93.18,
+        "accumulatedTradingVolume": 2460917860
+    },
+    {
+        "localDate": "20240526",
+        "closePrice": 109.633,
+        "openPrice": 110.244,
+        "highPrice": 115.8192,
+        "lowPrice": 106.94,
+        "accumulatedTradingVolume": 2310782650
+    },
+    {
+        "localDate": "20240602",
+        "closePrice": 120.888,
+        "openPrice": 113.621,
+        "highPrice": 125.587,
+        "lowPrice": 112.003,
+        "accumulatedTradingVolume": 2447199540
+    },
+    {
+        "localDate": "20240609",
+        "closePrice": 131.88,
+        "openPrice": 120.37,
+        "highPrice": 132.84,
+        "lowPrice": 117.01,
+        "accumulatedTradingVolume": 1406333722
+    },
+    {
+        "localDate": "20240616",
+        "closePrice": 126.57,
+        "openPrice": 132.99,
+        "highPrice": 140.76,
+        "lowPrice": 124.3,
+        "accumulatedTradingVolume": 1756092587
+    },
+    {
+        "localDate": "20240623",
+        "closePrice": 123.54,
+        "openPrice": 123.24,
+        "highPrice": 128.12,
+        "lowPrice": 118.04,
+        "accumulatedTradingVolume": 1832912673
+    },
+    {
+        "localDate": "20240630",
+        "closePrice": 125.83,
+        "openPrice": 123.47,
+        "highPrice": 128.85,
+        "lowPrice": 118.83,
+        "accumulatedTradingVolume": 933185147
+    },
+    {
+        "localDate": "20240707",
+        "closePrice": 129.24,
+        "openPrice": 127.49,
+        "highPrice": 136.15,
+        "lowPrice": 127.04,
+        "accumulatedTradingVolume": 1401139984
+    },
+    {
+        "localDate": "20240714",
+        "closePrice": 117.93,
+        "openPrice": 130.56,
+        "highPrice": 131.39,
+        "lowPrice": 116.56,
+        "accumulatedTradingVolume": 1351385198
+    },
+    {
+        "localDate": "20240721",
+        "closePrice": 113.06,
+        "openPrice": 120.35,
+        "highPrice": 124.69,
+        "lowPrice": 106.3,
+        "accumulatedTradingVolume": 1513222902
+    },
+    {
+        "localDate": "20240728",
+        "closePrice": 107.27,
+        "openPrice": 113.69,
+        "highPrice": 120.16,
+        "lowPrice": 101.37,
+        "accumulatedTradingVolume": 2213649314
+    },
+    {
+        "localDate": "20240804",
+        "closePrice": 104.75,
+        "openPrice": 92.06,
+        "highPrice": 108.8,
+        "lowPrice": 90.69,
+        "accumulatedTradingVolume": 2056049067
+    },
+    {
+        "localDate": "20240811",
+        "closePrice": 124.58,
+        "openPrice": 106.32,
+        "highPrice": 125.0,
+        "lowPrice": 106.26,
+        "accumulatedTradingVolume": 1598129482
+    },
+    {
+        "localDate": "20240818",
+        "closePrice": 129.37,
+        "openPrice": 124.28,
+        "highPrice": 130.75,
+        "lowPrice": 123.1,
+        "accumulatedTradingVolume": 1575723972
+    },
+    {
+        "localDate": "20240825",
+        "closePrice": 119.37,
+        "openPrice": 129.57,
+        "highPrice": 131.26,
+        "lowPrice": 116.71,
+        "accumulatedTradingVolume": 1869975248
+    },
+    {
+        "localDate": "20240901",
+        "closePrice": 102.83,
+        "openPrice": 116.01,
+        "highPrice": 116.21,
+        "lowPrice": 100.95,
+        "accumulatedTradingVolume": 1570114185
+    },
+    {
+        "localDate": "20240908",
+        "closePrice": 119.1,
+        "openPrice": 104.88,
+        "highPrice": 120.79,
+        "lowPrice": 103.69,
+        "accumulatedTradingVolume": 1589076945
+    },
+    {
+        "localDate": "20240915",
+        "closePrice": 116.0,
+        "openPrice": 116.79,
+        "highPrice": 119.66,
+        "lowPrice": 113.22,
+        "accumulatedTradingVolume": 1466985987
+    },
+    {
+        "localDate": "20240922",
+        "closePrice": 121.4,
+        "openPrice": 116.55,
+        "highPrice": 127.665,
+        "lowPrice": 114.86,
+        "accumulatedTradingVolume": 1419480253
+    },
+    {
+        "localDate": "20240929",
+        "closePrice": 124.92,
+        "openPrice": 118.31,
+        "highPrice": 125.04,
+        "lowPrice": 115.14,
+        "accumulatedTradingVolume": 1272577548
+    },
+    {
+        "localDate": "20241006",
+        "closePrice": 134.8,
+        "openPrice": 124.99,
+        "highPrice": 135.78,
+        "lowPrice": 124.95,
+        "accumulatedTradingVolume": 1290685141
+    },
+    {
+        "localDate": "20241013",
+        "closePrice": 138.0,
+        "openPrice": 136.47,
+        "highPrice": 140.89,
+        "lowPrice": 128.74,
+        "accumulatedTradingVolume": 1357584514
+    },
+    {
+        "localDate": "20241020",
+        "closePrice": 141.54,
+        "openPrice": 138.13,
+        "highPrice": 144.42,
+        "lowPrice": 137.46,
+        "accumulatedTradingVolume": 1154273138
+    },
+    {
+        "localDate": "20241027",
+        "closePrice": 135.4,
+        "openPrice": 143.0,
+        "highPrice": 143.14,
+        "lowPrice": 132.1106,
+        "accumulatedTradingVolume": 987765940
+    },
+    {
+        "localDate": "20241103",
+        "closePrice": 147.63,
+        "openPrice": 137.21,
+        "highPrice": 149.77,
+        "lowPrice": 135.57,
+        "accumulatedTradingVolume": 973098624
+    },
+    {
+        "localDate": "20241110",
+        "closePrice": 141.98,
+        "openPrice": 148.68,
+        "highPrice": 149.65,
+        "lowPrice": 140.08,
+        "accumulatedTradingVolume": 1017459795
+    },
+    {
+        "localDate": "20241117",
+        "closePrice": 141.95,
+        "openPrice": 139.5,
+        "highPrice": 152.89,
+        "lowPrice": 137.15,
+        "accumulatedTradingVolume": 1396925283
+    },
+    {
+        "localDate": "20241124",
+        "closePrice": 138.25,
+        "openPrice": 141.99,
+        "highPrice": 142.05,
+        "lowPrice": 131.8,
+        "accumulatedTradingVolume": 903463597
+    },
+    {
+        "localDate": "20241201",
+        "closePrice": 142.44,
+        "openPrice": 138.83,
+        "highPrice": 146.54,
+        "lowPrice": 137.825,
+        "accumulatedTradingVolume": 928447790
+    },
+    {
+        "localDate": "20241208",
+        "closePrice": 134.25,
+        "openPrice": 138.97,
+        "highPrice": 141.82,
+        "lowPrice": 132.54,
+        "accumulatedTradingVolume": 974960979
+    },
+    {
+        "localDate": "20241215",
+        "closePrice": 134.7,
+        "openPrice": 134.18,
+        "highPrice": 136.7,
+        "lowPrice": 126.86,
+        "accumulatedTradingVolume": 1291053689
+    },
+    {
+        "localDate": "20241222",
+        "closePrice": 137.01,
+        "openPrice": 136.28,
+        "highPrice": 141.9,
+        "lowPrice": 134.71,
+        "accumulatedTradingVolume": 568312188
+    },
+    {
+        "localDate": "20241229",
+        "closePrice": 144.47,
+        "openPrice": 134.83,
+        "highPrice": 144.9,
+        "lowPrice": 133.83,
+        "accumulatedTradingVolume": 750963555
+    },
+    {
+        "localDate": "20250105",
+        "closePrice": 135.91,
+        "openPrice": 148.59,
+        "highPrice": 153.13,
+        "lowPrice": 134.22,
+        "accumulatedTradingVolume": 1052111995
+    },
+    {
+        "localDate": "20250112",
+        "closePrice": 137.71,
+        "openPrice": 129.99,
+        "highPrice": 138.75,
+        "lowPrice": 129.51,
+        "accumulatedTradingVolume": 996041080
+    },
+    {
+        "localDate": "20250119",
+        "closePrice": 142.62,
+        "openPrice": 139.16,
+        "highPrice": 148.97,
+        "lowPrice": 137.09,
+        "accumulatedTradingVolume": 825973564
+    },
+    {
+        "localDate": "20250126",
+        "closePrice": 120.07,
+        "openPrice": 124.8,
+        "highPrice": 129.0,
+        "lowPrice": 116.25,
+        "accumulatedTradingVolume": 2648916253
+    },
+    {
+        "localDate": "20250202",
+        "closePrice": 129.84,
+        "openPrice": 114.75,
+        "highPrice": 130.37,
+        "lowPrice": 113.01,
+        "accumulatedTradingVolume": 1370566218
+    },
+    {
+        "localDate": "20250209",
+        "closePrice": 138.85,
+        "openPrice": 130.09,
+        "highPrice": 139.25,
+        "lowPrice": 129.08,
+        "accumulatedTradingVolume": 949079549
+    },
+    {
+        "localDate": "20250216",
+        "closePrice": 134.43,
+        "openPrice": 141.27,
+        "highPrice": 143.44,
+        "lowPrice": 134.03,
+        "accumulatedTradingVolume": 758833801
+    },
+    {
+        "localDate": "20250223",
+        "closePrice": 124.92,
+        "openPrice": 136.56,
+        "highPrice": 138.59,
+        "lowPrice": 116.4,
+        "accumulatedTradingVolume": 1677630653
+    },
+    {
+        "localDate": "20250302",
+        "closePrice": 112.69,
+        "openPrice": 123.51,
+        "highPrice": 123.7,
+        "lowPrice": 107.56,
+        "accumulatedTradingVolume": 1756819893
+    },
+    {
+        "localDate": "20250309",
+        "closePrice": 121.67,
+        "openPrice": 109.9,
+        "highPrice": 121.88,
+        "lowPrice": 104.77,
+        "accumulatedTradingVolume": 1621837095
+    },
+    {
+        "localDate": "20250316",
+        "closePrice": 117.52,
+        "openPrice": 122.74,
+        "highPrice": 122.89,
+        "lowPrice": 114.54,
+        "accumulatedTradingVolume": 828614650
+    }
+]

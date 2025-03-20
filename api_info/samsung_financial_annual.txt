@@ -1,0 +1,456 @@
+[헤더]
+
+요청 URL:
+https://m.stock.naver.com/api/stock/005930/finance/annual
+요청 메서드:
+GET
+상태 코드:
+200 OK
+원격 주소:
+210.89.168.68:443
+리퍼러 정책:
+unsafe-url
+cache-control:
+no-cache, no-store, max-age=0, must-revalidate
+content-type:
+application/json;charset=UTF-8
+date:
+Tue, 18 Mar 2025 05:03:53 GMT
+expires:
+0
+p3p:
+CP="ALL CURa ADMa DEVa TAIa OUR BUS IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC OTC"
+pragma:
+no-cache
+referrer-policy:
+unsafe-url
+referrer-policy:
+unsafe-url
+server:
+nfront
+set-cookie:
+XSRF-TOKEN=; Max-Age=0; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+set-cookie:
+XSRF-TOKEN=5527749f-abb2-457b-8b93-82fcdd2636d0; Path=/
+strict-transport-security:
+max-age=31536000; includeSubDomains
+vary:
+User-Agent
+x-content-type-options:
+nosniff
+x-frame-options:
+DENY
+x-xss-protection:
+1; mode=block
+:authority:
+m.stock.naver.com
+:method:
+GET
+:path:
+/api/stock/005930/finance/annual
+:scheme:
+https
+accept:
+application/json
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+ko,en-US;q=0.9,en;q=0.8
+access-control-max-age:
+86400
+cookie:
+NNB=2L6W3XA6NOSGO; ba.uuid=0c96ec69-e0c7-48f7-b306-b2ea9a82a4f6; ASID=dc7d722900000195089abfca00000048; NAC=X7qMBgAVpdcZ; nstore_session=xs46Qs8IW/9ezmhYjd0kRN3U; nstore_pagesession=iJkfnlqldKkj5wsLqXd-271735; _fbp=fb.1.1740703078476.714090000270903631; _gcl_au=1.1.151429090.1740703079; _ga_J5CZVNJNQP=GS1.1.1740703078.1.0.1740703078.0.0.0; _ga=GA1.1.873623774.1740703079; _tt_enable_cookie=1; _ttp=01JNE53VR5BH3H6DA7V0S5T4HB_.tt.1; _ga_9JHCQLWL5X=GS1.1.1741010627.1.1.1741010712.0.0.0; _ga_Q7G1QTKPGB=GS1.1.1741010627.1.1.1741010712.0.0.0; _ga_NFRXYYY5S0=GS1.1.1741010627.1.1.1741010712.0.0.0; nid_inf=1903405824; NID_AUT=0xoWaDLvUMttCPtPSYrLXWEXe39eoD60sHFKg7ODyc7RJ5YLGq8uaN+N6kLPzhX5; NID_JKL=g/GDBXK1z0C2USrbBnrxt0nOki2+saqYOS1jLBAwyl4=; BNB_FINANCE_HOME_TOOLTIP_MYASSET=true; my_last_menu_id=-1; BNB_FINANCE_HOME_TOOLTIP_STOCK=true; page_uid=i9A/NsprfQ4sslHKI6Nssssstmd-167249; SRT30=1742271001; NACT=1; recent_discussion_read=299012279; NID_SES=AAABnUBV38IMJL/iJv7eO5VfM9iUOZ8A5oVj8fP0Bbk1+LP86H6UnpHw6wR4PMDzspPMbv20to73neUAqCio+XNeLmDrW977+2k0oNhfSClGQmmf/dIfoe6y+n+k/Fjru2xVF6oPSvVC6ALNSdN9KZSIFu93vDMqrkECpM7WKfhP8ujq2RZ4xFaVEiPWzASuxTiV6q9jjjMenHHpXNc0FvmztytvfzBHyrs7WBYB298QSdOvV5VNo1yzXXXGZttCfHGGBlG2qPjqS+VgmE3XUSw175nvJmgrqW5DowPPp/5lHElccDV6U4KTPS1DG0+wSJ2Lvp7sFRz+MP7c2I/QIdB0+Ls9GAkE4NDIUB2JOfb4tA+7DQL6KS6m2b5wA817BQcfYDE5UjGkmE7IkBG0pLhRqh72LrmCbVjm/QifcJXTVk/LV+p7t6eRKP4eC4lEE3usdgyePPVI6IkO5rzCVPrb1LbP5Dm0rHf7nZRAPpigABQRfcZJlWrYLhicfq88YUe/15FvrF4W9URW9bK8cqSsNOpTyoq7lpCVxUJCBJw0zpAP; SRT5=1742274075; BUC=GFcWQti5isr0uvHeUXkGvBG3lhEPlfH77e2Cyk2fu4g=; JSESSIONID=4FC01AB4AC14DD35F2EE2DD1D5B3D15F; XSRF-TOKEN=7901e9fa-9196-49a5-884d-47e46b7499d4
+priority:
+u=1, i
+referer:
+https://m.stock.naver.com/domestic/stock/005930/finance/annual
+sec-ch-ua:
+"Chromium";v="134", "Not:A-Brand";v="24", "Google Chrome";v="134"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+sec-fetch-dest:
+empty
+sec-fetch-mode:
+cors
+sec-fetch-site:
+same-origin
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+x-xsrf-token:
+7901e9fa-9196-49a5-884d-47e46b7499d4
+
+[미리보기]
+{
+  "itemCode": "005930",
+  "financePeriodType": "annual",
+  "financeInfo": {
+    "itemCode": "005930",
+    "trTitleList": [
+      {
+        "isConsensus": "N",
+        "title": "2022.12.",
+        "key": "202212"
+      },
+      {
+        "isConsensus": "N",
+        "title": "2023.12.",
+        "key": "202312"
+      },
+      {
+        "isConsensus": "N",
+        "title": "2024.12.",
+        "key": "202412"
+      },
+      {
+        "isConsensus": "Y",
+        "title": "2025.12.",
+        "key": "202512"
+      }
+    ],
+    "rowList": [
+      {
+        "title": "매출액",
+        "columns": {
+          "202212": {
+            "value": "3,022,314",
+            "cx": null
+          },
+          "202312": {
+            "value": "2,589,355",
+            "cx": null
+          },
+          "202412": {
+            "value": "3,008,709",
+            "cx": null
+          },
+          "202512": {
+            "value": "3,187,342",
+            "cx": null
+          }
+        }
+      },
+      {
+        "title": "영업이익",
+        "columns": {
+          "202212": {
+            "value": "433,766",
+            "cx": null
+          },
+          "202312": {
+            "value": "65,670",
+            "cx": null
+          },
+          "202412": {
+            "value": "327,260",
+            "cx": null
+          },
+          "202512": {
+            "value": "312,699",
+            "cx": null
+          }
+        }
+      },
+      {
+        "title": "당기순이익",
+        "columns": {
+          "202212": {
+            "value": "556,541",
+            "cx": null
+          },
+          "202312": {
+            "value": "154,871",
+            "cx": null
+          },
+          "202412": {
+            "value": "344,514",
+            "cx": null
+          },
+          "202512": {
+            "value": "302,066",
+            "cx": null
+          }
+        }
+      },
+      {
+        "title": "지배주주순이익",
+        "columns": {
+          "202212": {
+            "value": "547,300",
+            "cx": null
+          },
+          "202312": {
+            "value": "144,734",
+            "cx": null
+          },
+          "202412": {
+            "value": "336,214",
+            "cx": null
+          },
+          "202512": {
+            "value": "-",
+            "cx": null
+          }
+        }
+      },
+      {
+        "title": "비지배주주순이익",
+        "columns": {
+          "202212": {
+            "value": "9,241",
+            "cx": null
+          },
+          "202312": {
+            "value": "10,137",
+            "cx": null
+          },
+          "202412": {
+            "value": "8,300",
+            "cx": null
+          },
+          "202512": {
+            "value": "-",
+            "cx": null
+          }
+        }
+      },
+      {
+        "title": "영업이익률",
+        "columns": {
+          "202212": {
+            "value": "14.35",
+            "cx": null
+          },
+          "202312": {
+            "value": "2.54",
+            "cx": null
+          },
+          "202412": {
+            "value": "10.88",
+            "cx": null
+          },
+          "202512": {
+            "value": "9.81",
+            "cx": null
+          }
+        }
+      },
+      {
+        "title": "순이익률",
+        "columns": {
+          "202212": {
+            "value": "18.41",
+            "cx": null
+          },
+          "202312": {
+            "value": "5.98",
+            "cx": null
+          },
+          "202412": {
+            "value": "11.45",
+            "cx": null
+          },
+          "202512": {
+            "value": "9.48",
+            "cx": null
+          }
+        }
+      },
+      {
+        "title": "ROE",
+        "columns": {
+          "202212": {
+            "value": "17.07",
+            "cx": null
+          },
+          "202312": {
+            "value": "4.15",
+            "cx": null
+          },
+          "202412": {
+            "value": "9.03",
+            "cx": null
+          },
+          "202512": {
+            "value": "7.42",
+            "cx": null
+          }
+        }
+      },
+      {
+        "title": "부채비율",
+        "columns": {
+          "202212": {
+            "value": "26.41",
+            "cx": null
+          },
+          "202312": {
+            "value": "25.36",
+            "cx": null
+          },
+          "202412": {
+            "value": "27.93",
+            "cx": null
+          },
+          "202512": {
+            "value": "-",
+            "cx": null
+          }
+        }
+      },
+      {
+        "title": "당좌비율",
+        "columns": {
+          "202212": {
+            "value": "211.68",
+            "cx": null
+          },
+          "202312": {
+            "value": "189.46",
+            "cx": null
+          },
+          "202412": {
+            "value": "187.80",
+            "cx": null
+          },
+          "202512": {
+            "value": "-",
+            "cx": null
+          }
+        }
+      },
+      {
+        "title": "유보율",
+        "columns": {
+          "202212": {
+            "value": "38,144.29",
+            "cx": null
+          },
+          "202312": {
+            "value": "39,114.28",
+            "cx": null
+          },
+          "202412": {
+            "value": "41,772.84",
+            "cx": null
+          },
+          "202512": {
+            "value": "-",
+            "cx": null
+          }
+        }
+      },
+      {
+        "title": "EPS",
+        "columns": {
+          "202212": {
+            "value": "8,057",
+            "cx": null
+          },
+          "202312": {
+            "value": "2,131",
+            "cx": null
+          },
+          "202412": {
+            "value": "4,950",
+            "cx": null
+          },
+          "202512": {
+            "value": "4,363",
+            "cx": null
+          }
+        }
+      },
+      {
+        "title": "PER",
+        "columns": {
+          "202212": {
+            "value": "6.86",
+            "cx": null
+          },
+          "202312": {
+            "value": "36.84",
+            "cx": null
+          },
+          "202412": {
+            "value": "10.75",
+            "cx": null
+          },
+          "202512": {
+            "value": "13.20",
+            "cx": null
+          }
+        }
+      },
+      {
+        "title": "BPS",
+        "columns": {
+          "202212": {
+            "value": "50,817",
+            "cx": null
+          },
+          "202312": {
+            "value": "52,002",
+            "cx": null
+          },
+          "202412": {
+            "value": "57,981",
+            "cx": null
+          },
+          "202512": {
+            "value": "59,719",
+            "cx": null
+          }
+        }
+      },
+      {
+        "title": "PBR",
+        "columns": {
+          "202212": {
+            "value": "1.09",
+            "cx": null
+          },
+          "202312": {
+            "value": "1.51",
+            "cx": null
+          },
+          "202412": {
+            "value": "0.92",
+            "cx": null
+          },
+          "202512": {
+            "value": "0.96",
+            "cx": null
+          }
+        }
+      },
+      {
+        "title": "주당배당금",
+        "columns": {
+          "202212": {
+            "value": "1,444",
+            "cx": null
+          },
+          "202312": {
+            "value": "1,444",
+            "cx": null
+          },
+          "202412": {
+            "value": "1,446",
+            "cx": null
+          },
+          "202512": {
+            "value": "1,516",
+            "cx": null
+          }
+        }
+      }
+    ]
+  },
+  "corporationSummary": {
+    "comment1": "한국 및 DX부문 해외 9개 지역총괄과 DS부문 해외 5개 지역총괄, SDC, Harman 등 229개의 종속기업으로 구성된 글로벌 전자기업임.",
+    "comment2": "세트사업은 TV를 비롯 모니터, 냉장고, 세탁기, 에어컨, 스마트폰, 네트워크시스템, 컴퓨터 등을 생산하는 DX부문이 있음.",
+    "comment3": "부품 사업에는 DRAM, NAND Flash, 모바일AP 등의 제품을 생산하고 있는 DS 부문과 스마트폰용 OLED  패널을 생산하고 있는 SDC가 있음."
+  }
+}

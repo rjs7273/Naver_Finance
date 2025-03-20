@@ -1,0 +1,29 @@
+[
+    {
+        "localDate": "20230101",
+        "closePrice": 141500.0,
+        "openPrice": 75100.0,
+        "highPrice": 143700.0,
+        "lowPrice": 73100.0,
+        "accumulatedTradingVolume": 840858213,
+        "foreignRetentionRate": 53.0
+    },
+    {
+        "localDate": "20240101",
+        "closePrice": 173900.0,
+        "openPrice": 139700.0,
+        "highPrice": 248500.0,
+        "lowPrice": 129000.0,
+        "accumulatedTradingVolume": 1064637268,
+        "foreignRetentionRate": 54.0
+    },
+    {
+        "localDate": "20250101",
+        "closePrice": 208750.0,
+        "openPrice": 170500.0,
+        "highPrice": 227000.0,
+        "lowPrice": 170000.0,
+        "accumulatedTradingVolume": 207724128,
+        "foreignRetentionRate": 55.0
+    }
+]

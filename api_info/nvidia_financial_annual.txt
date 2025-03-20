@@ -1,0 +1,309 @@
+[헤더]
+
+요청 URL:
+https://api.stock.naver.com/stock/NVDA.O/finance/annual
+요청 메서드:
+GET
+상태 코드:
+200 OK
+원격 주소:
+210.89.168.36:443
+리퍼러 정책:
+unsafe-url
+access-control-allow-credentials:
+true
+access-control-allow-origin:
+https://m.stock.naver.com
+cache-control:
+no-cache, no-store, max-age=0, must-revalidate
+content-encoding:
+gzip
+content-type:
+application/json;charset=UTF-8
+date:
+Thu, 20 Mar 2025 02:50:46 GMT
+expires:
+0
+pragma:
+no-cache
+referrer-policy:
+unsafe-url
+server:
+nfront
+vary:
+Origin
+vary:
+Access-Control-Request-Method
+vary:
+Access-Control-Request-Headers
+x-content-type-options:
+nosniff
+x-frame-options:
+DENY
+x-xss-protection:
+1; mode=block
+:authority:
+api.stock.naver.com
+:method:
+GET
+:path:
+/stock/NVDA.O/finance/annual
+:scheme:
+https
+accept:
+application/json
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+ko,en-US;q=0.9,en;q=0.8
+access-control-max-age:
+86400
+cookie:
+NNB=2L6W3XA6NOSGO; ba.uuid=0c96ec69-e0c7-48f7-b306-b2ea9a82a4f6; ASID=dc7d722900000195089abfca00000048; NAC=X7qMBgAVpdcZ; nstore_session=xs46Qs8IW/9ezmhYjd0kRN3U; nstore_pagesession=iJkfnlqldKkj5wsLqXd-271735; _fbp=fb.1.1740703078476.714090000270903631; _gcl_au=1.1.151429090.1740703079; _ga_J5CZVNJNQP=GS1.1.1740703078.1.0.1740703078.0.0.0; _ga=GA1.1.873623774.1740703079; _tt_enable_cookie=1; _ttp=01JNE53VR5BH3H6DA7V0S5T4HB_.tt.1; _ga_9JHCQLWL5X=GS1.1.1741010627.1.1.1741010712.0.0.0; _ga_Q7G1QTKPGB=GS1.1.1741010627.1.1.1741010712.0.0.0; _ga_NFRXYYY5S0=GS1.1.1741010627.1.1.1741010712.0.0.0; nid_inf=1903405824; NID_AUT=0xoWaDLvUMttCPtPSYrLXWEXe39eoD60sHFKg7ODyc7RJ5YLGq8uaN+N6kLPzhX5; NID_JKL=g/GDBXK1z0C2USrbBnrxt0nOki2+saqYOS1jLBAwyl4=; BNB_FINANCE_HOME_TOOLTIP_MYASSET=true; NACT=1; page_uid=i9Woesqo15wssjntnjKssssstC8-140835; NID_SES=AAABmpnpAFZqWDXCUSpISuCaYTl7WSLyKJ8sXKJZYJ3kb7lYRiYQKEhLP4moXjI45L8MNErwvQpverw/eFBeMan/sNSC3MCbcsWjIVMzJqX7nNirOr+yCPV1cfMLtapMeULzT9XKeKGtlS0O4HHG2W+LBEMYB4TCH7vBo2Wes0Sfr5KAttUGgiliBxAIDVVgS6wdNIl/IQzZTq9Fqtjzgyj0THIKKSb6E5IChbPKmlQCtz1xxeRNzDpVkVlHvCz6wHxRga7hv1vfqsGYzxTH/LIINELmK29IIe1fv+FN/Pd0/tliMUNevEx4IY4iyxtZubu35Q37JvTh11e6tS+S6cMz0Y16ED9VIAoK5su+jPHxYQ8CS59WUue4jlguCC+ExPzPtFIFx4bBe+om7pYxvjfRAs1NWuCOIjXzcqbTtKJQ79lyNbswmUfy8K1H1VLR3e4igXIiDIPuAwE06NdvceDegx8hyjpk/LNyfzMr0tFvpYNO2fzrJYATV62jVYmTqHBxGLB2Ppw5TpqV5uh8lrB3MgxgKoUsLWCe0Opwkm2lKMNf; SRT30=1742436944; SRT5=1742438818; BUC=6wY-bQTpk326w-S7_9jaOEuMLpXhkpJuW2uCod1K4f8=
+origin:
+https://m.stock.naver.com
+priority:
+u=1, i
+referer:
+https://m.stock.naver.com/worldstock/stock/NVDA.O/finance/primary/annual
+sec-ch-ua:
+"Chromium";v="134", "Not:A-Brand";v="24", "Google Chrome";v="134"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+sec-fetch-dest:
+empty
+sec-fetch-mode:
+cors
+sec-fetch-site:
+same-site
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+
+[미리보기]
+
+{
+  "isExchangeable": true,
+  "isKrw": false,
+  "unit": "USD(백만). %, 배 생략",
+  "trTitleList": [
+    {
+      "isConsensus": "N",
+      "title": "2023.01.29",
+      "key": "2023.01.29"
+    },
+    {
+      "isConsensus": "N",
+      "title": "2024.01.28",
+      "key": "2024.01.28"
+    },
+    {
+      "isConsensus": "N",
+      "title": "2025.01.26",
+      "key": "2025.01.26"
+    }
+  ],
+  "rowList": [
+    {
+      "title": "매출액",
+      "columns": {
+        "2024.01.28": {
+          "value": "60,922.00",
+          "krw": "888,912.90",
+          "cx": null
+        },
+        "2025.01.26": {
+          "value": "130,497.00",
+          "krw": "1,904,081.73",
+          "cx": null
+        },
+        "2023.01.29": {
+          "value": "26,974.00",
+          "krw": "393,577.63",
+          "cx": null
+        }
+      }
+    },
+    {
+      "title": "PER",
+      "columns": {
+        "2024.01.28": {
+          "value": "110.62",
+          "krw": "110.62",
+          "cx": null
+        },
+        "2025.01.26": {
+          "value": "41.12",
+          "krw": "41.12",
+          "cx": null
+        },
+        "2023.01.29": {
+          "value": "317.39",
+          "krw": "317.39",
+          "cx": null
+        }
+      }
+    },
+    {
+      "title": "PBR",
+      "columns": {
+        "2024.01.28": {
+          "value": "77.07",
+          "krw": "77.07",
+          "cx": null
+        },
+        "2025.01.26": {
+          "value": "37.54",
+          "krw": "37.54",
+          "cx": null
+        },
+        "2023.01.29": {
+          "value": "81.02",
+          "krw": "81.02",
+          "cx": null
+        }
+      }
+    },
+    {
+      "title": "EBITDA",
+      "columns": {
+        "2024.01.28": {
+          "value": "35,103.00",
+          "krw": "512,187.87",
+          "cx": null
+        },
+        "2025.01.26": {
+          "value": "83,945.00",
+          "krw": "1,224,841.50",
+          "cx": null
+        },
+        "2023.01.29": {
+          "value": "7,872.00",
+          "krw": "114,860.35",
+          "cx": null
+        }
+      }
+    },
+    {
+      "title": "EBIT",
+      "columns": {
+        "2024.01.28": {
+          "value": "33,595.00",
+          "krw": "490,184.65",
+          "cx": null
+        },
+        "2025.01.26": {
+          "value": "82,052.00",
+          "krw": "1,197,220.73",
+          "cx": null
+        },
+        "2023.01.29": {
+          "value": "6,328.00",
+          "krw": "92,331.85",
+          "cx": null
+        }
+      }
+    },
+    {
+      "title": "세전손익",
+      "columns": {
+        "2024.01.28": {
+          "value": "33,818.00",
+          "krw": "493,438.44",
+          "cx": null
+        },
+        "2025.01.26": {
+          "value": "84,026.00",
+          "krw": "1,226,023.37",
+          "cx": null
+        },
+        "2023.01.29": {
+          "value": "4,181.00",
+          "krw": "61,004.97",
+          "cx": null
+        }
+      }
+    },
+    {
+      "title": "세후손익",
+      "columns": {
+        "2024.01.28": {
+          "value": "29,760.00",
+          "krw": "434,228.16",
+          "cx": null
+        },
+        "2025.01.26": {
+          "value": "72,880.00",
+          "krw": "1,063,392.08",
+          "cx": null
+        },
+        "2023.01.29": {
+          "value": "4,368.00",
+          "krw": "63,733.49",
+          "cx": null
+        }
+      }
+    },
+    {
+      "title": "당기순이익",
+      "columns": {
+        "2024.01.28": {
+          "value": "29,760.00",
+          "krw": "434,228.16",
+          "cx": null
+        },
+        "2025.01.26": {
+          "value": "72,880.00",
+          "krw": "1,063,392.08",
+          "cx": null
+        },
+        "2023.01.29": {
+          "value": "4,368.00",
+          "krw": "63,733.49",
+          "cx": null
+        }
+      }
+    },
+    {
+      "title": "배당수익률",
+      "columns": {
+        "2024.01.28": {
+          "value": "0.03",
+          "krw": "0.03",
+          "cx": null
+        },
+        "2025.01.26": {
+          "value": "0.03",
+          "krw": "0.03",
+          "cx": null
+        },
+        "2023.01.29": {
+          "value": "0.02",
+          "krw": "0.02",
+          "cx": null
+        }
+      }
+    },
+    {
+      "title": "ROA",
+      "columns": {
+        "2024.01.28": {
+          "value": "55.67",
+          "krw": "55.67",
+          "cx": null
+        },
+        "2025.01.26": {
+          "value": "82.20",
+          "krw": "82.20",
+          "cx": null
+        },
+        "2023.01.29": {
+          "value": "10.23",
+          "krw": "10.23",
+          "cx": null
+        }
+      }
+    }
+  ]
+}

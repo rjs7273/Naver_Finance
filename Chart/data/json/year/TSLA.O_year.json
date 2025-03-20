@@ -1,0 +1,26 @@
+[
+    {
+        "localDate": "20230101",
+        "closePrice": 248.48,
+        "openPrice": 118.47,
+        "highPrice": 299.29,
+        "lowPrice": 101.81,
+        "accumulatedTradingVolume": 34343284319
+    },
+    {
+        "localDate": "20240101",
+        "closePrice": 403.84,
+        "openPrice": 250.08,
+        "highPrice": 488.5399,
+        "lowPrice": 138.8025,
+        "accumulatedTradingVolume": 23901220966
+    },
+    {
+        "localDate": "20250101",
+        "closePrice": 235.86,
+        "openPrice": 390.1,
+        "highPrice": 439.74,
+        "lowPrice": 217.02,
+        "accumulatedTradingVolume": 4686785696
+    }
+]
